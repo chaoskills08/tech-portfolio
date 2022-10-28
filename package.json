@@ -2,7 +2,7 @@
   "name": "tech-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chaoskills08.github.io/tech-portfolio",
+  "homepage": "https://chaoskills08.github.io/tech-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.1.0",
