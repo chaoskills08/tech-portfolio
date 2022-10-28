@@ -6,5 +6,5 @@ This application is to showcase my React skills and have a platform to showcase 
 ## Screenshot of deployment
 ![image](https://user-images.githubusercontent.com/55863153/198519023-52843ce9-4610-4c10-b613-292193eebdff.png)
 
-
 ## Link to deployment
+https://nicholas-bales-portfolio.herokuapp.com/#about
