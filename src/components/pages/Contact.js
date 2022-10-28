@@ -31,7 +31,7 @@ function Contact() {
 
   return (
     <div>
-      <form name="form1" className='contact' method="post" action="mailto:kdicari24@gmail.com">
+      <form name="form1" className='contact' method="post" action="mailto:nickb96@icloud.com.com">
       <h1 className='conText'>Contact Me</h1>
         <div className="row mb-3">
           <label for="inputName" className="col-sm-2 col-form-label fs-5 fw-bold">Your Name</label>
