@@ -5,7 +5,7 @@ function Resume() {
     <div>
       <div>
         {/* eslint-disable-next-line */}
-        <a href="https://drive.google.com/file/d/1r6-2siUfFITax61qH_y5fYx8QV9QlXbZ/view?usp=sharing" target="_blank" className='resumeText'>View Resume</a>
+        <a href="https://drive.google.com/file/d/1WXRSt8OzBrl9_3qJDb_u4Og_jkdR35KV/view?usp=sharing" target="_blank" className='resumeText'>View Resume</a>
       </div>
       <div className='skills' >
         <div className='col-4 centered'>
@@ -30,6 +30,7 @@ function Resume() {
             <p>MongoDB, Mongoose</p>
             <p>REST</p>
             <p>GraphQL</p>
+            <p>MERN stack</p>
           </div>
         </div>
       </div>
