@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tech-portfolio/static/css/main.931b686f.css",
+    "main.js": "/tech-portfolio/static/js/main.2a5fe598.js",
+    "static/media/reshift.png": "/tech-portfolio/static/media/reshift.2cf8ad50775025c476f7.png",
+    "static/media/gamerfoods.png": "/tech-portfolio/static/media/gamerfoods.115cf780a4888e0aab38.png",
+    "static/media/face-pic.jpeg": "/tech-portfolio/static/media/face-pic.70c8142ca2f1d968b27e.jpeg",
+    "static/media/weather-app.png": "/tech-portfolio/static/media/weather-app.e10f954a2722fe0ebcd6.png",
+    "static/media/momentum.png": "/tech-portfolio/static/media/momentum.0e1e73879772e93bb0a0.png",
+    "static/media/social-network-img.png": "/tech-portfolio/static/media/social-network-img.b32514da31e635306474.png",
+    "static/media/team-profile.png": "/tech-portfolio/static/media/team-profile.96fb26e829fabcc712d6.png",
+    "static/media/text-editor.png": "/tech-portfolio/static/media/text-editor.4b16952beac41756eb1a.png",
+    "static/media/note-taking-img.png": "/tech-portfolio/static/media/note-taking-img.15dab22ee24954d23b50.png",
+    "index.html": "/tech-portfolio/index.html",
+    "main.931b686f.css.map": "/tech-portfolio/static/css/main.931b686f.css.map",
+    "main.2a5fe598.js.map": "/tech-portfolio/static/js/main.2a5fe598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.931b686f.css",
+    "static/js/main.2a5fe598.js"
+  ]
+}
